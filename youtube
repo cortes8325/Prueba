@@ -6,7 +6,7 @@
     <title>Enlace a YouTube</title>
 </head>
 <body>
-    <h1>Ingresa a YouTube</h1>
+    <h2>Ingresa a YouTube</h2>
     <p>Puedes acceder haciendo clic en el enlace a continuación:</p>
     <a href="https://www.youtube.com/" target="_blank">Ir a YouTube</a>
 </body>
